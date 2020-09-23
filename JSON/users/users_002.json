@@ -1,0 +1,116 @@
+[
+    {
+        "firstName": "Yogesh",
+        "middleName": "Suryakant",
+        "lastName": "Warkare",
+        "username": "yswarkare",
+        "emailId": "yswarkare@gmail.com",
+        "password": "$2a$10$IGfMEnxElFqbgWYFKyUYY.kOcXlSLEqUYOehsyvu5BwoHZSMqtxGO",
+        "role": "admin"
+    },
+    {
+        "firstName": "Yogesh",
+        "middleName": "Suryakant",
+        "lastName": "Warkare",
+        "username": "warkareys",
+        "emailId": "yogeshwarkare@gmail.com",
+        "password": "$2a$10$17xgQPY4KjkySqbOq8UNluRBsbca.5l.riZKFF.H3s.D5VRveZ4ym",
+        "role": "admin"
+    },{
+        "firstName": "James",
+        "middleName": "Steven",
+        "lastName": "Bond",
+        "username": "jamesbond",
+        "emailId": "jamesbond@gmail.com",
+        "password": "$2a$10$heoZYos8zEP/iFQbkA1d1O0C9d09q9uiCFl28TxqYOyMHmVKjLovy",
+        "role": "admin"
+    },{
+        "firstName": "John",
+        "middleName": "William",
+        "lastName": "Smith",
+        "username": "johnsmith",
+        "emailId": "johnsmith@gmail.com",
+        "password": "$2a$10$mViZZMfUHa0xiZM4I95hCelHOpgLU5bxdWRJq/spqFsYaLfycW0rm",
+        "role": "admin"
+    },{
+        "firstName": "Charls",
+        "middleName": "Irbing",
+        "lastName": "Bartowski",
+        "username": "chuck",
+        "emailId": "chuck@gmail.com",
+        "password": "$2a$10$c..NFDCbtom4HMFnrb4di.zhQc/t60gsqugS3w0pa7a07xsJ1CX7e",
+        "role": "user"
+    },
+    {
+        "firstName": "Sarah",
+        "middleName": "Leslie",
+        "lastName": "Walker",
+        "username": "sarah",
+        "emailId": "sarah@gmail.com",
+        "password": "$2a$10$xzDg.vxfapQNc3hyPveY3..IV3qw/OgKxT0SSMwsr3tR2ROJVwks.",
+        "role": "user"
+    },
+    {
+        "firstName": "Richard",
+        "middleName": "Edger",
+        "lastName": "Castle",
+        "username": "rickcastle",
+        "emailId": "rickcastle@gmail.com",
+        "password": "$2a$10$gbBkImwfek1FuGgMuILyMuSsVnemTOMKe/L0aNW0ogL0AIAmmG/Ve",
+        "role": "user"
+    },
+    {
+        "firstName": "Richard",
+        "middleName": "Alexander",
+        "lastName": "Rogers",
+        "username": "rickrogers",
+        "emailId": "rickrogers@gmail.com",
+        "password": "$2a$10$2rp8gfCCXMU.uFNFGu/I9.RuEH6drI3xq.exL0vJE1JChyCjFqE8W",
+        "role": "user"
+    },
+    {
+        "firstName": "Katherine",
+        "middleName": "Helen",
+        "lastName": "Beckett",
+        "username": "katebeckett",
+        "emailId": "katebeckett@gmail.com",
+        "password": "$2a$10$sNEnYeDrTYv54mYko8Pta.F8OOvhtaAK6gZuooALmtD/sHarde6bm",
+        "role": "user"
+    },
+    {
+        "firstName": "Patrick",
+        "middleName": "John",
+        "lastName": "Jane",
+        "username": "patrickjane",
+        "emailId": "patrickjane@gmail.com",
+        "password": "$2a$10$BxfD618Zg4bSslAvH5dpW.iKVsnzCqJD7FqXQLXX7UEveICzo/.JC",
+        "role": "user"
+    },
+    {
+        "firstName": "Thomas",
+        "middleName": "Red",
+        "lastName": "McAllister",
+        "username": "tommcallister",
+        "emailId": "tommcallister@gmail.com",
+        "password": "$2a$10$rDbsVGnXOmGa5cVg0d1gX.AxkXZ7jKbqkAPQHNcijXN3XJ4HcCrQq",
+        "role": "user"
+    },
+    {
+        "firstName": "Malcom",
+        "middleName": "Mal",
+        "lastName": "Reynolds",
+        "username": "malreynolds",
+        "emailId": "malreynolds@gmail.com",
+        "password": "$2a$10$3I1GTXOVZd4c3d.gIkTgKOGddioTaC8zCbGxkWTN3I9.Lm0mZRJZ.",
+        "role": "user"
+    },
+    {
+        "firstName": "Stewie",
+        "middleName": "Gilligan",
+        "lastName": "Griffin",
+        "username": "stewiegriffin",
+        "emailId": "stewiegriffin@gmail.com",
+        "password": "$2a$10$A1Do89R9RlofBEzgxF/ro.EH2zAaJyfqfN8XULPwvFdotMRNZKinu",
+        "role": "user"
+    }
+]

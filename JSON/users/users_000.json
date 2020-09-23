@@ -1,0 +1,34 @@
+[{
+    "firstName": "Yogesh",
+    "middleName": "Suryakant",
+    "lastName": "Warkare",
+    "username": "yswarkare",
+    "emailId": "yswarkare@gmail.com",
+    "password": "$2a$10$IGfMEnxElFqbgWYFKyUYY.kOcXlSLEqUYOehsyvu5BwoHZSMqtxGO",
+    "role": "admin"
+},
+{
+    "firstName": "Yogesh",
+    "middleName": "Suryakant",
+    "lastName": "Warkare",
+    "username": "warkareys",
+    "emailId": "yogeshwarkare@gmail.com",
+    "password": "$2a$10$17xgQPY4KjkySqbOq8UNluRBsbca.5l.riZKFF.H3s.D5VRveZ4ym",
+    "role": "admin"
+},{
+    "firstName": "James",
+    "middleName": "Steven",
+    "lastName": "Bond",
+    "username": "jamesbond",
+    "emailId": "jamesbond@gmail.com",
+    "password": "$2a$10$heoZYos8zEP/iFQbkA1d1O0C9d09q9uiCFl28TxqYOyMHmVKjLovy",
+    "role": "admin"
+},{
+    "firstName": "John",
+    "middleName": "William",
+    "lastName": "Smith",
+    "username": "johnsmith",
+    "emailId": "johnsmith@gmail.com",
+    "password": "$2a$10$mViZZMfUHa0xiZM4I95hCelHOpgLU5bxdWRJq/spqFsYaLfycW0rm",
+    "role": "admin"
+}]
