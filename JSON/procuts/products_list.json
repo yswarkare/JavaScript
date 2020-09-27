@@ -1,0 +1,62 @@
+[
+	{
+		"productName": "HP 14S-ER0003TU",
+		"brandName": "hp",
+		"category": "laptop",
+		"description": "HP 14s Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 14S-ER0003TU Thin and Light Laptop with inbuilt 4G LTE  (14 inch, Natural Silver, 1.51 kg, With MS Office)",
+		"image": "https://rukminim1.flixcart.com/image/416/416/kb89ea80/computer/n/m/5/hp-na-thin-and-light-laptop-original-imafsmmghwzzu3mq.jpeg?q=70",
+		"mrp": "76,044",
+		"price": "63,990",
+	    "saving": "12,054",
+	    "discount": "15%",
+	    "deliveryCharge": "40"
+	},
+	{
+		"productName": "Asus VivoBook X412FJ-EK513T",
+		"brandName": "asus",
+		"description": "Asus VivoBook 14 Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphics) X412FJ-EK513T Thin and Light Laptop  (14 inch, Peacock Blue, 1.50 kg)",
+		"category": "laptop",
+		"image": "https://rukminim1.flixcart.com/image/416/416/k91o6fk0/computer/m/h/g/asus-original-imafqxfepbjgxjt4.jpeg?q=70",
+		"mrp": "72,990",
+		"price": "59,990",
+	    "saving": "13,000",
+	    "discount": "17%",
+	    "deliveryCharge": "40"
+	},
+	{
+		"productName": "Dell Vostro 3491",
+		"brandName": "dell",
+		"description": "Dell Vostro Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) Vostro 3491 Thin and Light Laptop  (14 inch, Black, 1.66 kg, With MS Office)",
+		"category": "laptop",
+		"image": "https://rukminim1.flixcart.com/image/416/416/kctf0cw0/computer/s/q/k/dell-original-imaftuvzyhyfmvzy.jpeg?q=70",
+		"mrp": "53,859",
+		"price": "53,490",
+	    "saving": "369",
+	    "discount": "0%",
+	    "deliveryCharge": "40"
+	},
+	{
+		"productName": "Lenovo IdeaPad 15IMH05",
+		"brandName": "lenovo",
+		"description": "Lenovo IdeaPad Gaming 3i Core i7 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA Geforce GTX 1650/60 Hz) 15IMH05 Gaming Laptop  (15.6 inch, Onyx Black, 2.2 kg)",
+		"category": "laptop",
+		"image": "https://rukminim1.flixcart.com/image/416/416/kay9bbk0/computer/b/v/9/lenovo-na-gaming-laptop-original-imafsegfnebzmpac.jpeg?q=70",
+		"mrp": "1,15,390",
+		"price": "78,990",
+	    "saving": "36,400",
+	    "discount": "31%",
+	    "deliveryCharge": "40"
+	},
+	{
+		"productName": "Acer ConceptD CN515-51",
+		"brandName": "acer",
+		"description": "Acer ConceptD 5 Core i5 8th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics) CN515-51 Thin and Light Laptop  (15.6 inch, White, 1.5 kg)",
+		"category": "laptop",
+		"image": "https://rukminim1.flixcart.com/image/416/416/kctf0cw0/computer/8/y/c/acer-na-original-imaftv3q6yjs3wtm.jpeg?q=70",
+		"mrp": "1,29,999",
+		"price": "1,14,990",
+	    "saving": "15,009",
+	    "discount": "11%",
+	    "deliveryCharge": "40"
+	},
+]
